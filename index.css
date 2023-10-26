@@ -1,0 +1,115 @@
+.all-section{
+  border-color: rgb(184, 181, 181);
+  border: 0px;
+  border-radius: 12px;
+  border-style: solid;
+  box-shadow: 1px 1px 10px rgba(0, 0,0, 1);
+  z-index: 100;
+  padding-bottom: 2px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.section-one{
+  align-items: center;
+  display: inline-block;
+  column-gap: 20px;
+  row-gap: 70px;
+  display: flex;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: space-between;
+  border-bottom-width: 5px;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+  margin-bottom: 10px;
+}
+
+.logo{
+  
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.paragraf{
+  display: inline-block;
+}
+
+.bank{
+  text-align: center;
+  font-weight: bold;
+font-size: 30px;
+margin-top: 0;
+margin-bottom: 0;
+}
+
+.azizi{
+  text-align: center;
+  font-size:20px ;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.kandahar{
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.photo{
+  
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.section-two{
+  align-items: center;
+  display: inline-block;
+  column-gap: 20px;
+  row-gap: 70px;
+  display: flex;
+  grid-template-columns: 10px 1px;
+  justify-content: space-between;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+  
+ 
+}
+
+p{
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 3px;
+  margin-bottom: 0;
+}
+
+.name{
+margin-left: 20px;
+}
+
+.info{
+  margin-right: 115px;
+}
+
+.help{
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  font-weight: 800px;
+}
+
+.change{
+  margin-top: 30px;
+  margin-left: 30px;
+}
